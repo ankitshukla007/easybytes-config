@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
-    name: "Shivam Doe - Developer"
+    name: "Shivam Sharma - Developer"
     email: "{cipher}f747fdd83c18cb3e54f512a32dbacbd5e97ec29837af4f69b97988917409d08402ea33fd58e7a409d2b9c5436d2e8a44"
   onCallSupport:
     - 8960201081
