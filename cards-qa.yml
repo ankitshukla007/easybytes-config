@@ -1,8 +1,8 @@
 build:
   version: "2.0"
 
-accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
     name: "Ankit Shukla - Developer"
     email: "Ankit@eazybank.com"

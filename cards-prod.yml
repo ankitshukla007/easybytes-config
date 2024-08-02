@@ -1,8 +1,8 @@
 build:
   version: "1.0"
 
-accounts:
-  message: "Welcome to EazyBank accounts related Production APIs "
+cards:
+  message: "Welcome to EazyBank cards related Production APIs "
   contactDetails:
     name: "Shivam Doe - Developer"
     email: "Shivam@eazybank.com"
