@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook Production APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
     name: "Shivam Sharma - Developer"
     email: "{cipher}f747fdd83c18cb3e54f512a32dbacbd5e97ec29837af4f69b97988917409d08402ea33fd58e7a409d2b9c5436d2e8a44"
